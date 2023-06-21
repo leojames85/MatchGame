@@ -31,7 +31,7 @@
         <TextBlock 
             HorizontalAlignment="Center" 
             Text="?" 
-            VerticalAlignment="Center" FontSize="36"/>
+            VerticalAlignment="Center" FontSize="36" MouseDown="TextBlock_MouseDown"/>
         <TextBlock Grid.Column="1" 
             HorizontalAlignment="Center" 
             Text="?" 
